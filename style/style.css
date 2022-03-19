@@ -4,6 +4,7 @@
 .curs__main {
   margin-top: 60px;
   padding-bottom: 0;
+  padding-top: 0;
   margin-bottom: 50px;
 }
 
@@ -194,4 +195,51 @@
 
 .curs__block3-div-text {
   padding-left: 30px;
+}
+
+.curs__block-end {
+  width: 1140px;
+  height: 376px;
+
+  background: #F1F1F1;
+  border-radius: 10px;
+
+  padding-top: 25px;
+  padding-left: 30px;
+}
+
+.curs__end-text {
+  font-style: normal;
+  font-weight: 700;
+  font-size: 44px;
+  line-height: 120%;
+
+  margin-bottom: 19px;
+}
+
+.curs__list-end li {
+  list-style-position: inside;
+  list-style-type:"– ";
+}
+
+.curs__lists-end {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 120%;
+
+  margin-bottom: 9px;
+}
+
+.curs__lists-end:last-child {
+  margin-bottom: 0;
+}
+
+.curs__list-end {
+  margin-bottom: 29px;
+}
+
+.curs__end {
+  margin-bottom: 60px;
+  padding-bottom: 0;
 }
