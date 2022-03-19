@@ -1,11 +1,8 @@
 @import "../style/global_style.css";
 @import "../style/normalize.css";
 
-.curs__main {
-  margin-top: 60px;
-  padding-bottom: 0;
-  padding-top: 0;
-  margin-bottom: 50px;
+.curs {
+  margin-top: 35px;
 }
 
 .curs__main-text {
@@ -78,11 +75,10 @@
 
   margin-left: auto;
   margin-right: auto;
-  margin-bottom: 50px;
 }
 
 .curs__1 {
-  padding-top: 0;
+
 }
 
 .curs__text-main{
