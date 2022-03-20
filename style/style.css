@@ -12,6 +12,7 @@
   line-height: 120%;
 
   margin: 0;
+  margin-bottom: 30px;
 }
 
 .curs__text {
@@ -21,13 +22,13 @@
   line-height: 120%;
 }
 
-.curs__text span {
+.curs__span-main {
   display: block;
   margin-bottom: 30px;
-  margin-top: 30px;
+  margin-top: 0;
 }
 
-.curs__text span:last-child {
+.curs__span-main:last-child {
   margin-bottom: 0;
 }
 
@@ -64,8 +65,6 @@
 .curs__block {
   width: 1140px;
   height: 215px;
-  left: 150px;
-  top: 410px;
 
   background: #F1F1F1;
   border-radius: 10px;
@@ -113,7 +112,7 @@
   margin-right: 25px;
 }
 
-.curs__1-block-2 span {
+.curs__1-block-2--span {
   display: block;
   padding-bottom: 30px;
 }
@@ -139,12 +138,12 @@
   height: 279px;
 }
 
-.curs__2-block-1 span {
+.curs__2-block-1--span {
   display: block;
   padding-bottom: 30px;
 }
 
-.curs__2-block-1 span:last-child {
+.curs__2-block-1--span:last-child {
   padding-bottom: 0;
 }
 
